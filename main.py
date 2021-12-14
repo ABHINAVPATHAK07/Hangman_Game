@@ -1,5 +1,5 @@
 import random
-from ank import Show_Image
+from images import Show_Image
 from words_hangman import Words
            
 
